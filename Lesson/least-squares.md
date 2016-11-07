@@ -25,7 +25,7 @@ If we make the rather common assumption that the uncertainties for the values on
 Thus, it is possible to find the value of *y* for two linearly related values when *A* and *B* are known.
 
 Finding the values of *A* and *B* then for the case of a linear regression to some *x-y* data is fairly straightforward, though it does involve a bit of algebra.
-For our purposes, I'll refer you to [Taylor, 1997](http://www.uscibooks.com/taylornb.htm) for a complete derivation of how to find *A* and *B*, and simply present the relevant equations below.
+For our purposes, I'll refer you to Chapter 8 of [Taylor, 1997](http://www.uscibooks.com/taylornb.htm) for a complete derivation of how to find *A* and *B*, and simply present the relevant equations below.
 The value of the *y* intercept can be found using:
 
 ![Line constant A](../Images/line-constant-a.png)<br/>

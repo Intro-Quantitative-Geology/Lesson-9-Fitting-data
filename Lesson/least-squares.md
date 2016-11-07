@@ -39,6 +39,12 @@ The line slope can be found using:
 And the value of *Δ* is:
 
 ![Line constant delta](../Images/line-constant-delta.png)<br/>
-*Equation 6. The denominator for Equations 5 and 6*.
+*Equation 7. The denominator for Equations 5 and 6*.
 
+With the equations above, you are now able to calculate *unweighted* regression lines, the best-fit lines to some *x-y* data in which the uncertainties in the measurements are not considered to influence the fit of the line.
+It is also possible to fit regression lines that consider the variable uncertainties in the data, referred to as *weighted regressions*, but will will not consider that type of regression for the time being.
 
+## 
+**Next**: [Connecting to the cloud computers from D211](connecting-to-cloud.md)<br/>
+**Home**: [Lesson 9 main page](https://github.com/Intro-Quantitative-Geology/Lesson-9-Fitting-data)<br/>
+**Previous**: [Goodness-of-fit calculations](goodness-of-fit.md)

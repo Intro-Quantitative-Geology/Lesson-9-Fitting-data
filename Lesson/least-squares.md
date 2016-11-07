@@ -29,15 +29,16 @@ For our purposes, I'll refer you to [Taylor, 1997](http://www.uscibooks.com/tayl
 The value of the *y* intercept can be found using:
 
 ![Line constant A](../Images/line-constant-a.png)<br/>
-*Equation 4. The y intercept of a linear regression to data, where x is ith data point plotted on the x-axis, y is the ith data point plotted on the y-axis, and Δ is defined in Equation 6*.
+*Equation 5. The y intercept of a linear regression to data, where x is ith data point plotted on the x-axis, y is the ith data point plotted on the y-axis, and Δ is defined in Equation 7*.
 
 The line slope can be found using:
 
 ![Line constant B](../Images/line-constant-b.png)<br/>
-*Equation 5. The slope of a linear regression of N values. Δ is defined in Equation 6*.
+*Equation 6. The slope of a linear regression of N values. Δ is defined in Equation 7*.
 
 And the value of *Δ* is:
+
 ![Line constant delta](../Images/line-constant-delta.png)<br/>
-*Equation 6. The denominator for Equations 4 and 5*.
+*Equation 6. The denominator for Equations 5 and 6*.
 
 

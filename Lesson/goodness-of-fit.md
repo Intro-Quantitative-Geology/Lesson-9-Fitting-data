@@ -33,10 +33,11 @@ Unfortunately, since these values for each data point are summed together, it ca
 An alternative formulation of the *weighted sum of the squared errors* attempts to make the values slightly easier to interpret by dividing by the number of values used in the calculation, as shown below.
 
 ![Normalized-weighted-sum-of-squared-errors](../Images/norm-chi-squared.png)<br/>
-*Equation 1. The weighted sum of the squared errors, where N is the number of values in the summation.
+*Equation 2. The normalized weighted sum of the squared errors, where N is the number of values in the summation*.
 
 The change above is simple, we're just dividing the calculated chi-squared value by the number of values used in the summation *N*.
 The advantage here is that now a value of 1.0 or less tells us that on average the predictions are within the uncertainties in the data, and a value of greater than 1.0 says that on average the predictions are not within the uncertainties of the data.
+
 ## 
 **Next**: [Least squares regressions](least-squares.md)<br/>
 **Home**: [Lesson 9 main page](https://github.com/Intro-Quantitative-Geology/Lesson-9-Fitting-data)<br/>

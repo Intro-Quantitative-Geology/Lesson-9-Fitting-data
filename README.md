@@ -7,7 +7,7 @@ As was the case last week, we will continue to focus more on quantitative and ge
 1. [Goodness-of-fit calculations](Lesson/goodness-of-fit.md)
 2. [Least squares regressions](Lesson/least-squares.md)
 3. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
-4. [Exercise 9: Comparing data to predictions](https://classroom.github.com/assignment-invitations/b8b4b3bef25e1561a876850f57f697e8)
+4. [Exercise 9: Comparing data to predictions](https://github.com/Intro-Quantitative-Geology/Exercise-9)
 5. [Hints for Exercise 9](Lesson/hints.md)
 
 ## Resources
